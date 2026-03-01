@@ -19,3 +19,7 @@ This repository documents my practical understanding of core networking concepts
 ## Objective
 
 To build a clear and structured understanding of how network traffic flows in real environments and how it relates to security monitoring.
+
+## Author
+
+Second-year Cybersecurity student building SOC-ready fundamentals.
